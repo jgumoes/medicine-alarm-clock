@@ -45,6 +45,8 @@ in app:
 * the app should be able to connect directly to the clock for when there isn't a network
 * future: there should be different alarm profiles, that are switched automatically based on location, time of day, if the device is on wifi, etc.
 * distant future: a parent should be able to manage and update a child's app remotely
+* the alarm should be snoozable, with an easy to set snooze length
+* on snooze, the app should post a notification that can be clicked on to adjust the length of the current snooze.
 
 server:
 * the alarm clock should have a static IP, and update the server with it's IP every time it connects.
