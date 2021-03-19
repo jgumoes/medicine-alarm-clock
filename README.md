@@ -43,6 +43,7 @@ in app:
 * you should be able to change the settings of each clock
 * the app should be able to update each clock's settings, and if it can't reach the clock, keep notifying the user until it can.
 * the app should be able to connect directly to the clock for when there isn't a network
+* future: there should be different alarm profiles, that are switched automatically based on location, time of day, if the device is on wifi, etc.
 * distant future: a parent should be able to manage and update a child's app remotely
 
 server:
